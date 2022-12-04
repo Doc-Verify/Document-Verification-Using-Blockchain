@@ -1,6 +1,6 @@
 # Document-Verification-Using-Blockchain
 -----------------------------------------
-## Abstract
+**## Abstract**
 Keeping track of and validating a big number of records is exceedingly difficult. As a
 result, Tampering and the creation of bogus or duplicate certificates become an
 unwelcome scenario. Certificates that are crucial to a person's character and skill set are
