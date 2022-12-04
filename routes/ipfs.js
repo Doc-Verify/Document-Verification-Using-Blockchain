@@ -122,6 +122,7 @@ router.post("/uploadProfilePicture",function (req, res, next) {
             // ERROR occurred (here it can be occurred due
             // to uploading image of size greater than
             // 1MB or uploading different file type)
+		//the file needs to be check by the admin so that it will be uploaded 
             res.send(err)
         }
         else {
